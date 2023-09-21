@@ -1,4 +1,4 @@
-(ns persistent-bugger-tests
+(ns persistent-bugger-test
   (:require [persistent-bugger :refer [persistence]]
             [clojure.test :refer :all]))
 

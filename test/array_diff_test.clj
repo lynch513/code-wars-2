@@ -1,4 +1,4 @@
-(ns array-diff-tests
+(ns array-diff-test
   (:require [array-diff :refer [array-diff]]
             [clojure.test :refer [deftest is]]))
 
